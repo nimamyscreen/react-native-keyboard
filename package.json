@@ -26,5 +26,8 @@
   "_resolved": "git+https://github.com/beefe/react-native-keyboard.git#e79e1eace4d0dab225ea07e7c3d02a2b7fb80b07",
   "peerDependencies": {
     "prop-types": "^15.6.1"
+  },
+  "dependencies": {
+    "react-native-extended-stylesheet": "^0.8.1"
   }
 }
